@@ -25,16 +25,16 @@
 ### 🚀 About Me
 
 - 🤖 I design and build **AI-powered automation workflows** using **n8n**, integrating tools like OpenAI & ChatGPT
-- 🌐 I build and customize **WordPress** websites → themes, plugins, security, and speed optimization
+- 🌐 I build and customize **WordPress** websites — themes, plugins, security, and speed optimization
 - 📈 I create **lead-generation systems** that help businesses capture and qualify leads automatically
 - 🐍 I write backend logic with **Python (Flask/Django)** and manage data with **PostgreSQL**
-- 🎓 BS Software Engineering graduate → currently open to remote/freelance opportunities
+- 🎓 BS Software Engineering graduate — currently open to remote/freelance opportunities
 - 📍 Based in Bahawalpur, Punjab, Pakistan
 
 ---
 
 ### ⚙️ Currently Building
- 
+
 | Project | Description |
 |---|---|
 | 🎯 **Lead Capture Automation** | n8n workflow that captures, qualifies, and routes leads automatically |
@@ -92,9 +92,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mzain-tech/mzain-tech/snake-output/dist/snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mzain-tech/mzain-tech/snake-output/dist/snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/mzain-tech/mzain-tech/snake-output/dist/snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mzain-tech/mzain-tech/snake-output/snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mzain-tech/mzain-tech/snake-output/snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/mzain-tech/mzain-tech/snake-output/snake.svg" />
 </picture>
 
 </div>
