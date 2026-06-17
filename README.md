@@ -25,10 +25,10 @@
 ### 🚀 About Me
 
 - 🤖 I design and build **AI-powered automation workflows** using **n8n**, integrating tools like OpenAI & ChatGPT
-- 🌐 I build and customize **WordPress** websites — themes, plugins, security, and speed optimization
+- 🌐 I build and customize **WordPress** websites → themes, plugins, security, and speed optimization
 - 📈 I create **lead-generation systems** that help businesses capture and qualify leads automatically
 - 🐍 I write backend logic with **Python (Flask/Django)** and manage data with **PostgreSQL**
-- 🎓 BS Software Engineering graduate — currently open to remote/freelance opportunities
+- 🎓 BS Software Engineering graduate → currently open to remote/freelance opportunities
 - 📍 Based in Bahawalpur, Punjab, Pakistan
 
 ---
