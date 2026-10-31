@@ -1,17 +1,20 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C2A8&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Zain;AI+Automation+Developer;n8n+Workflows+%26+AI+Agents;WordPress+%26+Lead-Gen+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C2A8&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Zain;Web+Developer+%26+AI+Automation;n8n+Workflows+%26+AI+Agents;WordPress+%26+Lead-Gen+Systems" alt="Typing SVG" />
 
 <br/>
 
+<a href="https://zainspire.com" target="_blank">
+  <img src="https://img.shields.io/badge/Website-zainspire.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 <a href="https://www.linkedin.com/in/muhammad-zain-developers/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://instagram.com/zainspire" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="mailto:zainmuhamad000@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:hello@zainspire.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-hello%40zainspire.com-555555?style=for-the-badge&logo=maildotru&logoColor=white" />
 </a>
 
 <br/><br/>
@@ -30,6 +33,20 @@
 - 🐍 I write backend logic with **Python (Flask/Django)** and manage data with **PostgreSQL**
 - 🎓 BS Software Engineering graduate → currently open to remote/freelance opportunities
 - 📍 Based in Bahawalpur, Punjab, Pakistan
+
+---
+
+### 🌐 Portfolio & Free Library
+
+My work, case studies and free resources live on **[zainspire.com](https://zainspire.com)**.
+
+| What | Link |
+|---|---|
+| 💼 **Portfolio & case studies** | [zainspire.com](https://zainspire.com) |
+| ⚡ **Free n8n workflows** (WhatsApp AI agent, lead scrapers) | [zainspire.com/library](https://zainspire.com/library) |
+| 🛠️ **Free web tools** (image compressor, CSS generator, text tools) | [Image Studio](https://zainspire.com/tools/image-studio/) · [CSS Studio](https://zainspire.com/tools/css-studio/) · [Text Tools](https://zainspire.com/tools/text-tools/) |
+| 🏁 **Type Rally** (typing speed test race game) | [Play now](https://zainspire.com/arcade/type-rally/) |
+| 📘 **HTML Notes** (free PDF for beginners) | [Read the notes](https://zainspire.com/notes/html-notes-zainspire.pdf) |
 
 ---
 
@@ -78,10 +95,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mzain-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mzain-tech&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzain-tech&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 
 </div>
 
@@ -107,6 +121,6 @@
 
 I'm open to freelance projects, full-time roles, and collaborations in **AI Automation, n8n, WordPress & Backend Development**.
 
-📩 **zainmuhamad000@gmail.com** &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-zain-developers/) &nbsp;|&nbsp; 📸 [Instagram](https://instagram.com/zainspire)
+🌐 [zainspire.com](https://zainspire.com) &nbsp;|&nbsp; 📩 **hello@zainspire.com** &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-zain-developers/) &nbsp;|&nbsp; 📸 [Instagram](https://instagram.com/zainspire)
 
 </div>
